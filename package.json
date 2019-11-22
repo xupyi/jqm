@@ -12,7 +12,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "js-sha1": "^0.6.0",
-    "vant": "^1.6.17",
+    "vant": "^2.1.8",
     "vconsole": "^3.3.0",
     "vshare": "^2.0.0",
     "vue": "^2.5.2",
