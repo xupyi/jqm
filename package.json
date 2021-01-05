@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "js-sha1": "^0.6.0",
     "vant": "^1.6.17",
     "vconsole": "^3.3.0",
